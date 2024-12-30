@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0268-missing-number) |
 | [1127-last-stone-weight](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1127-last-stone-weight) |
+| [3429-special-array-i](https://github.com/Satwikyadav1/leetcode-practice/tree/master/3429-special-array-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
