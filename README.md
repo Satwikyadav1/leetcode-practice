@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0268-missing-number) |
 | [1127-last-stone-weight](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1127-last-stone-weight) |
 | [3429-special-array-i](https://github.com/Satwikyadav1/leetcode-practice/tree/master/3429-special-array-i) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/Satwikyadav1/leetcode-practice/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0268-missing-number) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/Satwikyadav1/leetcode-practice/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Math
 |  |
 | ------- |
