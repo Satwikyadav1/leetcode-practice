@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0001-two-sum) |
 | [0238-product-of-array-except-self](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0268-missing-number) |
 | [1127-last-stone-weight](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1127-last-stone-weight) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0268-missing-number) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Satwikyadav1/leetcode-practice/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Satwikyadav1/leetcode-practice/tree/master/3446-find-the-number-of-good-pairs-i) |
