@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
