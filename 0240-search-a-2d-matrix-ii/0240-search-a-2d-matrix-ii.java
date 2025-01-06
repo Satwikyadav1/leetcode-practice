@@ -1,6 +1,7 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
-        for(int i=0;i<matrix.length;i++){
+        int i=0;
+       while(i<matrix.length){
             int j=0;
             while(j<matrix[i].length){
                 if(matrix[i][j]==target){
@@ -8,6 +9,7 @@ class Solution {
                 }
                 j++;
             }
+            i++;
         }
         return false;
     }
