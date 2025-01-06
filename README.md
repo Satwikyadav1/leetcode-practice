@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0238-product-of-array-except-self](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0125-valid-palindrome) |
+| [1019-squares-of-a-sorted-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
