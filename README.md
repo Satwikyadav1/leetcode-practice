@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0035-search-insert-position) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0035-search-insert-position) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
