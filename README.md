@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Satwikyadav1/leetcode-practice/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3429-special-array-i](https://github.com/Satwikyadav1/leetcode-practice/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Satwikyadav1/leetcode-practice/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Satwikyadav1/leetcode-practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [1019-squares-of-a-sorted-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Satwikyadav1/leetcode-practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Satwikyadav1/leetcode-practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
 |  |
 | ------- |
