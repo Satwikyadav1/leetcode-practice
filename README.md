@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0268-missing-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [1127-last-stone-weight](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -124,10 +127,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
