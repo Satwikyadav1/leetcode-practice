@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0035-search-insert-position) |
+| [0073-set-matrix-zeroes](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0268-missing-number) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Satwikyadav1/leetcode-practice/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Satwikyadav1/leetcode-practice/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -126,5 +128,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
