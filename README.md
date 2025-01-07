@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2350-find-closest-number-to-zero](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2350-find-closest-number-to-zero) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0268-missing-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Satwikyadav1/leetcode-practice/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Satwikyadav1/leetcode-practice/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Math
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Satwikyadav1/leetcode-practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Dynamic Programming
 |  |
 | ------- |
