@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Satwikyadav1/leetcode-practice/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3429-special-array-i](https://github.com/Satwikyadav1/leetcode-practice/tree/master/3429-special-array-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1127-last-stone-weight](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Counting
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Divide and Conquer
 |  |
