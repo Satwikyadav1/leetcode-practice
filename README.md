@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2350-find-closest-number-to-zero](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2350-find-closest-number-to-zero) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -53,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
