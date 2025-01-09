@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [1019-squares-of-a-sorted-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Satwikyadav1/leetcode-practice/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Satwikyadav1/leetcode-practice/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Satwikyadav1/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
