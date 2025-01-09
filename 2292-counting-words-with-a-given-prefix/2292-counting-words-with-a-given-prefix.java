@@ -4,9 +4,7 @@ class Solution {
             return false;
         }
 for(int i=0;i<pref.length();i++){
-    char d=word.charAt(i);
-    char e=pref.charAt(i);
-    if(d!=e){
+    if(word.charAt(i)!=pref.charAt(i)){
      return false;
     }
 }
